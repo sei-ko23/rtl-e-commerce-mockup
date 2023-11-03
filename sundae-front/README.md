@@ -31,3 +31,5 @@ response resolver function :
 
 When waiting to smth to appear asynchronously on the page (like server connections ) ALLWAYS use await and findBy
 Handling Server Errors:
+
+https://www.digitalocean.com/community/tutorials/how-to-test-a-react-app-with-jest-and-react-testing-library
